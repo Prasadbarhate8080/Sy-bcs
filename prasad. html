@@ -1,0 +1,62 @@
+05.19 3:16 PM
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Beautiful Webpage</title>
+  <style>
+    /* CSS styles go here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f1f1f1;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Beautiful Webpage</h1>
+  </header>
+
+  <div class="container">
+    <h2>About</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a tellus et orci consectetur commodo.</p>
+    <p>Nullam suscipit finibus risus, eu porttitor nisi dapibus in. Proin tempus lorem non dolor gravida, vel aliquam tortor varius.</p>
+  </div>
+
+  <footer>
+    &copy; 2023 My Beautiful Webpage. All rights reserved.
+  </footer>
+</body>
+</html>
